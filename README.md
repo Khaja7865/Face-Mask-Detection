@@ -5,7 +5,7 @@ COVID-19 has made wearing face masks a part of everyone's daily lives. Making su
 
 ## Dataset
 
-The face mask dataset used was compiled by [Chandrika Deb](https://github.com/chandrikadeb7). 
+The face mask dataset used was compiled by SK.Khajamoin. 
 
 The dataset has **3835 images** split between two classes: **1916 images** of faces with masks and **1919 images** of faces without masks.
 
